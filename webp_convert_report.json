@@ -3,10 +3,10 @@
   "no_grow": true,
   "dry_run": false,
   "keep": false,
-  "total_original_bytes": 12207581,
-  "total_now_bytes": 3728120,
+  "total_original_bytes": 95965312,
+  "total_now_bytes": 31372330,
   "counts": {
-    "ok": 55,
+    "ok": 30,
     "kept": 0,
     "kept-original": 0,
     "skipped": 0,
@@ -14,442 +14,242 @@
   },
   "items": [
     {
-      "path": "images-upic-picture/wallpaper-thumbnail-0-1675774623911.webp",
-      "src_ext": "webp",
-      "orig_size": 266702,
-      "webp_size": 261128,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images-upic-picture/wallpaper-thumbnail-1-1675774628442.webp",
-      "src_ext": "webp",
-      "orig_size": 358380,
-      "webp_size": 349992,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images-upic-picture/wallpaper-thumbnail-2-1675774645601.webp",
-      "src_ext": "webp",
-      "orig_size": 213662,
-      "webp_size": 204012,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images-upic-picture/wallpaper-thumbnail-4-1675774649617.webp",
-      "src_ext": "webp",
-      "orig_size": 136112,
-      "webp_size": 132564,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images-upic-picture/wallpaper-thumbnail-5-1675774652746.webp",
-      "src_ext": "webp",
-      "orig_size": 208800,
-      "webp_size": 200408,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images/1576934639-866x1328.png",
+      "path": "images-upic-picture/blog-五行关系-1690287913092.png",
       "src_ext": "png",
-      "orig_size": 757630,
-      "webp_size": 56200,
+      "orig_size": 414902,
+      "webp_size": 68500,
       "status": "ok",
       "note": ""
     },
     {
-      "path": "images/1576935284-1200x1374.png",
+      "path": "images-upic-picture/blog-十二生肖冲刑破害表-1687874625691.png",
       "src_ext": "png",
-      "orig_size": 183846,
-      "webp_size": 58782,
+      "orig_size": 122146,
+      "webp_size": 45420,
       "status": "ok",
       "note": ""
     },
     {
-      "path": "images/1576935352-1032x304.png",
-      "src_ext": "png",
-      "orig_size": 78313,
-      "webp_size": 49192,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images/1576935352-1046x84.png",
-      "src_ext": "png",
-      "orig_size": 24256,
-      "webp_size": 10660,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images/1576935352-1054x110.png",
-      "src_ext": "png",
-      "orig_size": 37723,
-      "webp_size": 16856,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images/1576935352-1758x636.png",
-      "src_ext": "png",
-      "orig_size": 325675,
-      "webp_size": 76186,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images/1576935352-2126x662.png",
-      "src_ext": "png",
-      "orig_size": 109436,
-      "webp_size": 49422,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images/1576935352-2330x452.png",
-      "src_ext": "png",
-      "orig_size": 110958,
-      "webp_size": 47124,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images/1576935352-2822x560.png",
-      "src_ext": "png",
-      "orig_size": 124458,
-      "webp_size": 48748,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images/1576935352-430x562.png",
-      "src_ext": "png",
-      "orig_size": 26978,
-      "webp_size": 9296,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images/1576935352-438x316.png",
-      "src_ext": "png",
-      "orig_size": 20217,
-      "webp_size": 6480,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images/1576935352-832x242.png",
-      "src_ext": "png",
-      "orig_size": 58746,
-      "webp_size": 29076,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images/1578403801-1040x1048.png",
-      "src_ext": "png",
-      "orig_size": 229971,
-      "webp_size": 38292,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images/1578403801-1280x1134.png",
-      "src_ext": "png",
-      "orig_size": 657990,
-      "webp_size": 68612,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images/1578403801-1476x548.png",
-      "src_ext": "png",
-      "orig_size": 129128,
-      "webp_size": 32254,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images/1578403801-1480x640.png",
-      "src_ext": "png",
-      "orig_size": 396080,
-      "webp_size": 59832,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images/1578403801-1486x936.png",
-      "src_ext": "png",
-      "orig_size": 238998,
-      "webp_size": 49448,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images/1578403801-1600x1100.png",
-      "src_ext": "png",
-      "orig_size": 185241,
-      "webp_size": 46694,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images/1578403801-1754x1198.png",
-      "src_ext": "png",
-      "orig_size": 301446,
-      "webp_size": 97612,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images/1578403801-2252x822.png",
-      "src_ext": "png",
-      "orig_size": 217608,
-      "webp_size": 64768,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images/1578403801-508x1090.png",
-      "src_ext": "png",
-      "orig_size": 136991,
-      "webp_size": 21444,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images/1578403801-592x714.png",
-      "src_ext": "png",
-      "orig_size": 175386,
-      "webp_size": 37172,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images/1578920981-532x226.png",
-      "src_ext": "png",
-      "orig_size": 43445,
-      "webp_size": 13956,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images/1579091065-816x412.png",
-      "src_ext": "png",
-      "orig_size": 136197,
-      "webp_size": 18814,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images/1579091065-822x296.png",
-      "src_ext": "png",
-      "orig_size": 111224,
-      "webp_size": 14782,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images/1579091065-822x408.png",
-      "src_ext": "png",
-      "orig_size": 139014,
-      "webp_size": 19004,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images/1579091065-822x412.png",
-      "src_ext": "png",
-      "orig_size": 151705,
-      "webp_size": 19914,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images/1579091065-826x300.png",
-      "src_ext": "png",
-      "orig_size": 125974,
-      "webp_size": 16390,
-      "status": "ok",
-      "note": ""
-    },
-    {
-      "path": "images/1590412456-1078x560.jpg",
+      "path": "images-upic-picture/food-20230401_145101__01-1683294089581.jpg",
       "src_ext": "jpg",
-      "orig_size": 204082,
-      "webp_size": 69548,
+      "orig_size": 1469846,
+      "webp_size": 576254,
       "status": "ok",
       "note": ""
     },
     {
-      "path": "images/1600693883-584x824.jpg",
+      "path": "images-upic-picture/food-20230401_145556__01-1683294094702.jpg",
       "src_ext": "jpg",
-      "orig_size": 105239,
-      "webp_size": 28030,
+      "orig_size": 1443246,
+      "webp_size": 506924,
       "status": "ok",
       "note": ""
     },
     {
-      "path": "images/1600694600-1184x1146.jpg",
+      "path": "images-upic-picture/food-20230416_115646__01__01-1683294096695.jpg",
       "src_ext": "jpg",
-      "orig_size": 143396,
-      "webp_size": 38314,
+      "orig_size": 2135611,
+      "webp_size": 744224,
       "status": "ok",
       "note": ""
     },
     {
-      "path": "images/1600694600-1190x1018.jpg",
+      "path": "images-upic-picture/food-mmexport1680502211145-1683294098612.jpg",
       "src_ext": "jpg",
-      "orig_size": 174839,
-      "webp_size": 56162,
+      "orig_size": 7348220,
+      "webp_size": 1558754,
       "status": "ok",
       "note": ""
     },
     {
-      "path": "images/1600694600-1550x634.jpg",
+      "path": "images-upic-picture/food-mmexport1680502214493__01-1683294102031.jpg",
       "src_ext": "jpg",
-      "orig_size": 140906,
-      "webp_size": 39482,
+      "orig_size": 2684743,
+      "webp_size": 703818,
       "status": "ok",
       "note": ""
     },
     {
-      "path": "images/1600694600-1650x500.jpg",
+      "path": "images-upic-picture/food-mmexport1680502217181-1683294103530.jpg",
       "src_ext": "jpg",
-      "orig_size": 108896,
-      "webp_size": 28484,
+      "orig_size": 6455652,
+      "webp_size": 925210,
       "status": "ok",
       "note": ""
     },
     {
-      "path": "images/1600694956-1512x478.jpg",
+      "path": "images-upic-picture/food-mmexport1680502254417__01-1683294106366.jpg",
       "src_ext": "jpg",
-      "orig_size": 97165,
-      "webp_size": 25680,
+      "orig_size": 1353250,
+      "webp_size": 419864,
       "status": "ok",
       "note": ""
     },
     {
-      "path": "images/1600695097-3348x1876.jpg",
+      "path": "images-upic-picture/travel-20230101_140411-1685197546052.jpg",
       "src_ext": "jpg",
-      "orig_size": 267997,
-      "webp_size": 54306,
+      "orig_size": 3136678,
+      "webp_size": 1436132,
       "status": "ok",
       "note": ""
     },
     {
-      "path": "images/1600696362-1598x994.jpg",
+      "path": "images-upic-picture/travel-20230101_145443-1685197550805.jpg",
       "src_ext": "jpg",
-      "orig_size": 165126,
-      "webp_size": 37510,
+      "orig_size": 2810658,
+      "webp_size": 1275476,
       "status": "ok",
       "note": ""
     },
     {
-      "path": "images/1600696948-2560x1600.jpg",
+      "path": "images-upic-picture/travel-20230101_151506-1685197553050.jpg",
       "src_ext": "jpg",
-      "orig_size": 151952,
-      "webp_size": 31202,
+      "orig_size": 3873169,
+      "webp_size": 1903854,
       "status": "ok",
       "note": ""
     },
     {
-      "path": "images/1600696948-3360x2026.jpg",
+      "path": "images-upic-picture/travel-20230401_164522__01-1683294107813.jpg",
       "src_ext": "jpg",
-      "orig_size": 730167,
-      "webp_size": 189510,
+      "orig_size": 3862657,
+      "webp_size": 2093774,
       "status": "ok",
       "note": ""
     },
     {
-      "path": "images/1601612726-3344x882.jpg",
+      "path": "images-upic-picture/travel-mmexport1680366058080-1683294110413.jpg",
       "src_ext": "jpg",
-      "orig_size": 323749,
-      "webp_size": 80068,
+      "orig_size": 3387876,
+      "webp_size": 763286,
       "status": "ok",
       "note": ""
     },
     {
-      "path": "images/1601613328-3346x1048.jpg",
+      "path": "images-upic-picture/travel-mmexport1680366064324-1683294112485.jpg",
       "src_ext": "jpg",
-      "orig_size": 247003,
-      "webp_size": 62900,
+      "orig_size": 2747600,
+      "webp_size": 526694,
       "status": "ok",
       "note": ""
     },
     {
-      "path": "images/1601613328-3348x1058.jpg",
+      "path": "images-upic-picture/travel-mmexport1680483173889-1683294114443.jpg",
       "src_ext": "jpg",
-      "orig_size": 275677,
-      "webp_size": 68380,
+      "orig_size": 2960408,
+      "webp_size": 1410204,
       "status": "ok",
       "note": ""
     },
     {
-      "path": "images/1601613328-3354x1248.jpg",
+      "path": "images-upic-picture/travel-mmexport1680483207436-1683294116723.jpg",
       "src_ext": "jpg",
-      "orig_size": 277648,
-      "webp_size": 69212,
+      "orig_size": 3464762,
+      "webp_size": 1127982,
       "status": "ok",
       "note": ""
     },
     {
-      "path": "images/1601615610-3350x1860.jpg",
+      "path": "images-upic-picture/travel-mmexport1680483226060-1683294119461.jpg",
       "src_ext": "jpg",
-      "orig_size": 438554,
-      "webp_size": 114006,
+      "orig_size": 4604278,
+      "webp_size": 1744818,
       "status": "ok",
       "note": ""
     },
     {
-      "path": "images/1601615610-3358x860.jpg",
+      "path": "images-upic-picture/travel-mmexport1680483231557-1683294121784.jpg",
       "src_ext": "jpg",
-      "orig_size": 230065,
-      "webp_size": 52790,
+      "orig_size": 3940043,
+      "webp_size": 1223960,
       "status": "ok",
       "note": ""
     },
     {
-      "path": "images/1601629503-2754x1816.jpg",
+      "path": "images-upic-picture/travel-mmexport1680483241425-1683294124218.jpg",
       "src_ext": "jpg",
-      "orig_size": 278066,
-      "webp_size": 51068,
+      "orig_size": 2885226,
+      "webp_size": 848024,
       "status": "ok",
       "note": ""
     },
     {
-      "path": "images/1601633400-3332x1130.jpg",
+      "path": "images-upic-picture/travel-mmexport1680483335021-1683294126079.jpg",
       "src_ext": "jpg",
-      "orig_size": 290102,
-      "webp_size": 68968,
+      "orig_size": 2391605,
+      "webp_size": 626622,
       "status": "ok",
       "note": ""
     },
     {
-      "path": "images/1601635288-2560x1600.jpg",
+      "path": "images-upic-picture/travel-mmexport1680483345966-1683294127774.jpg",
       "src_ext": "jpg",
-      "orig_size": 460508,
-      "webp_size": 149408,
+      "orig_size": 3446297,
+      "webp_size": 1098460,
       "status": "ok",
       "note": ""
     },
     {
-      "path": "images/1601639184-2662x1804.jpg",
+      "path": "images-upic-picture/travel-mmexport1680502650273-1683294130201.jpg",
       "src_ext": "jpg",
-      "orig_size": 268206,
-      "webp_size": 48364,
+      "orig_size": 7607150,
+      "webp_size": 2068204,
       "status": "ok",
       "note": ""
     },
     {
-      "path": "images/1601639840-1104x1774.jpg",
+      "path": "images-upic-picture/travel-mmexport1680502970197-1683294133612.jpg",
       "src_ext": "jpg",
-      "orig_size": 409948,
-      "webp_size": 139614,
+      "orig_size": 5000169,
+      "webp_size": 2077462,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images-upic-picture/travel-mmexport1680502984752-1683294136322.jpg",
+      "src_ext": "jpg",
+      "orig_size": 4539135,
+      "webp_size": 1852566,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images-upic-picture/travel-mmexport1680503060764-1683294138587.jpg",
+      "src_ext": "jpg",
+      "orig_size": 2406406,
+      "webp_size": 573474,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images-upic-picture/travel-mmexport1680587827283-1683294140388.jpg",
+      "src_ext": "jpg",
+      "orig_size": 3305722,
+      "webp_size": 1140602,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images-upic-picture/travel-mmexport1680587887633-1683294142512.jpg",
+      "src_ext": "jpg",
+      "orig_size": 2874685,
+      "webp_size": 906128,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images-upic-picture/travel-mmexport1680587907235-1683294144437.jpg",
+      "src_ext": "jpg",
+      "orig_size": 3149891,
+      "webp_size": 1007500,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images-upic-picture/wallpaper-20230216-02-1683291730647.jpg",
+      "src_ext": "jpg",
+      "orig_size": 143281,
+      "webp_size": 118140,
       "status": "ok",
       "note": ""
     }
