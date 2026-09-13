@@ -1,0 +1,457 @@
+{
+  "quality": 85,
+  "no_grow": true,
+  "dry_run": false,
+  "keep": false,
+  "total_original_bytes": 12207581,
+  "total_now_bytes": 3728120,
+  "counts": {
+    "ok": 55,
+    "kept": 0,
+    "kept-original": 0,
+    "skipped": 0,
+    "error": 0
+  },
+  "items": [
+    {
+      "path": "images-upic-picture/wallpaper-thumbnail-0-1675774623911.webp",
+      "src_ext": "webp",
+      "orig_size": 266702,
+      "webp_size": 261128,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images-upic-picture/wallpaper-thumbnail-1-1675774628442.webp",
+      "src_ext": "webp",
+      "orig_size": 358380,
+      "webp_size": 349992,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images-upic-picture/wallpaper-thumbnail-2-1675774645601.webp",
+      "src_ext": "webp",
+      "orig_size": 213662,
+      "webp_size": 204012,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images-upic-picture/wallpaper-thumbnail-4-1675774649617.webp",
+      "src_ext": "webp",
+      "orig_size": 136112,
+      "webp_size": 132564,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images-upic-picture/wallpaper-thumbnail-5-1675774652746.webp",
+      "src_ext": "webp",
+      "orig_size": 208800,
+      "webp_size": 200408,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1576934639-866x1328.png",
+      "src_ext": "png",
+      "orig_size": 757630,
+      "webp_size": 56200,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1576935284-1200x1374.png",
+      "src_ext": "png",
+      "orig_size": 183846,
+      "webp_size": 58782,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1576935352-1032x304.png",
+      "src_ext": "png",
+      "orig_size": 78313,
+      "webp_size": 49192,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1576935352-1046x84.png",
+      "src_ext": "png",
+      "orig_size": 24256,
+      "webp_size": 10660,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1576935352-1054x110.png",
+      "src_ext": "png",
+      "orig_size": 37723,
+      "webp_size": 16856,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1576935352-1758x636.png",
+      "src_ext": "png",
+      "orig_size": 325675,
+      "webp_size": 76186,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1576935352-2126x662.png",
+      "src_ext": "png",
+      "orig_size": 109436,
+      "webp_size": 49422,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1576935352-2330x452.png",
+      "src_ext": "png",
+      "orig_size": 110958,
+      "webp_size": 47124,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1576935352-2822x560.png",
+      "src_ext": "png",
+      "orig_size": 124458,
+      "webp_size": 48748,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1576935352-430x562.png",
+      "src_ext": "png",
+      "orig_size": 26978,
+      "webp_size": 9296,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1576935352-438x316.png",
+      "src_ext": "png",
+      "orig_size": 20217,
+      "webp_size": 6480,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1576935352-832x242.png",
+      "src_ext": "png",
+      "orig_size": 58746,
+      "webp_size": 29076,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1578403801-1040x1048.png",
+      "src_ext": "png",
+      "orig_size": 229971,
+      "webp_size": 38292,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1578403801-1280x1134.png",
+      "src_ext": "png",
+      "orig_size": 657990,
+      "webp_size": 68612,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1578403801-1476x548.png",
+      "src_ext": "png",
+      "orig_size": 129128,
+      "webp_size": 32254,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1578403801-1480x640.png",
+      "src_ext": "png",
+      "orig_size": 396080,
+      "webp_size": 59832,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1578403801-1486x936.png",
+      "src_ext": "png",
+      "orig_size": 238998,
+      "webp_size": 49448,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1578403801-1600x1100.png",
+      "src_ext": "png",
+      "orig_size": 185241,
+      "webp_size": 46694,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1578403801-1754x1198.png",
+      "src_ext": "png",
+      "orig_size": 301446,
+      "webp_size": 97612,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1578403801-2252x822.png",
+      "src_ext": "png",
+      "orig_size": 217608,
+      "webp_size": 64768,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1578403801-508x1090.png",
+      "src_ext": "png",
+      "orig_size": 136991,
+      "webp_size": 21444,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1578403801-592x714.png",
+      "src_ext": "png",
+      "orig_size": 175386,
+      "webp_size": 37172,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1578920981-532x226.png",
+      "src_ext": "png",
+      "orig_size": 43445,
+      "webp_size": 13956,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1579091065-816x412.png",
+      "src_ext": "png",
+      "orig_size": 136197,
+      "webp_size": 18814,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1579091065-822x296.png",
+      "src_ext": "png",
+      "orig_size": 111224,
+      "webp_size": 14782,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1579091065-822x408.png",
+      "src_ext": "png",
+      "orig_size": 139014,
+      "webp_size": 19004,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1579091065-822x412.png",
+      "src_ext": "png",
+      "orig_size": 151705,
+      "webp_size": 19914,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1579091065-826x300.png",
+      "src_ext": "png",
+      "orig_size": 125974,
+      "webp_size": 16390,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1590412456-1078x560.jpg",
+      "src_ext": "jpg",
+      "orig_size": 204082,
+      "webp_size": 69548,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1600693883-584x824.jpg",
+      "src_ext": "jpg",
+      "orig_size": 105239,
+      "webp_size": 28030,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1600694600-1184x1146.jpg",
+      "src_ext": "jpg",
+      "orig_size": 143396,
+      "webp_size": 38314,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1600694600-1190x1018.jpg",
+      "src_ext": "jpg",
+      "orig_size": 174839,
+      "webp_size": 56162,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1600694600-1550x634.jpg",
+      "src_ext": "jpg",
+      "orig_size": 140906,
+      "webp_size": 39482,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1600694600-1650x500.jpg",
+      "src_ext": "jpg",
+      "orig_size": 108896,
+      "webp_size": 28484,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1600694956-1512x478.jpg",
+      "src_ext": "jpg",
+      "orig_size": 97165,
+      "webp_size": 25680,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1600695097-3348x1876.jpg",
+      "src_ext": "jpg",
+      "orig_size": 267997,
+      "webp_size": 54306,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1600696362-1598x994.jpg",
+      "src_ext": "jpg",
+      "orig_size": 165126,
+      "webp_size": 37510,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1600696948-2560x1600.jpg",
+      "src_ext": "jpg",
+      "orig_size": 151952,
+      "webp_size": 31202,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1600696948-3360x2026.jpg",
+      "src_ext": "jpg",
+      "orig_size": 730167,
+      "webp_size": 189510,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1601612726-3344x882.jpg",
+      "src_ext": "jpg",
+      "orig_size": 323749,
+      "webp_size": 80068,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1601613328-3346x1048.jpg",
+      "src_ext": "jpg",
+      "orig_size": 247003,
+      "webp_size": 62900,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1601613328-3348x1058.jpg",
+      "src_ext": "jpg",
+      "orig_size": 275677,
+      "webp_size": 68380,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1601613328-3354x1248.jpg",
+      "src_ext": "jpg",
+      "orig_size": 277648,
+      "webp_size": 69212,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1601615610-3350x1860.jpg",
+      "src_ext": "jpg",
+      "orig_size": 438554,
+      "webp_size": 114006,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1601615610-3358x860.jpg",
+      "src_ext": "jpg",
+      "orig_size": 230065,
+      "webp_size": 52790,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1601629503-2754x1816.jpg",
+      "src_ext": "jpg",
+      "orig_size": 278066,
+      "webp_size": 51068,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1601633400-3332x1130.jpg",
+      "src_ext": "jpg",
+      "orig_size": 290102,
+      "webp_size": 68968,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1601635288-2560x1600.jpg",
+      "src_ext": "jpg",
+      "orig_size": 460508,
+      "webp_size": 149408,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1601639184-2662x1804.jpg",
+      "src_ext": "jpg",
+      "orig_size": 268206,
+      "webp_size": 48364,
+      "status": "ok",
+      "note": ""
+    },
+    {
+      "path": "images/1601639840-1104x1774.jpg",
+      "src_ext": "jpg",
+      "orig_size": 409948,
+      "webp_size": 139614,
+      "status": "ok",
+      "note": ""
+    }
+  ]
+}
