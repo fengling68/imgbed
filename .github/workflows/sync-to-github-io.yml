@@ -1,0 +1,54 @@
+name: Sync imgbed to fengling68.github.io
+
+# 每次向 imgbed 仓库的 gh-pages 分支提交（uPic 上传即触发）时，
+# 自动把本仓库内容同步到 fengling68.github.io 的 imgbed/ 目录并提交，
+# GitHub Pages 随即自动重新部署。
+on:
+  push:
+    branches: [gh-pages]
+  # 允许在 Actions 页面手动触发一次，便于首次或补同步
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout imgbed (source)
+        uses: actions/checkout@v4
+        with:
+          path: imgbed
+
+      - name: Checkout fengling68.github.io (target)
+        uses: actions/checkout@v4
+        with:
+          repository: fengling68/fengling68.github.io
+          path: site
+          token: ${{ secrets.PAT }}   # 需要能写入 fengling68.github.io 的 PAT
+
+      - name: Sync imgbed content into site/imgbed
+        run: |
+          set -e
+          rm -rf site/imgbed
+          # 复制除 git 内部目录与本地配置外的全部内容
+          rsync -a \
+            --exclude='.git' \
+            --exclude='.workbuddy' \
+            --exclude='.DS_Store' \
+            imgbed/ site/imgbed/
+
+      - name: Commit and push to fengling68.github.io
+        run: |
+          cd site
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to sync."
+          else
+            git commit -m "chore: auto-sync imgbed content"
+            git push
+            echo "Synced and pushed to fengling68.github.io/imgbed."
+          fi
